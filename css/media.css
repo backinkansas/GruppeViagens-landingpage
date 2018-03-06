@@ -1,0 +1,100 @@
+@media (max-width: 900px) {
+    .topbar ul li {
+        display: block;
+        padding: 5px 17px;
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 900px) {
+    nav.topbar {
+        background-color: black;
+        position: inherit;
+        opacity: 0.5;
+        color: rgb(88, 88, 88);
+    }
+}
+
+@media (max-width: 795px) {
+    .selo {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+}
+
+@media (max-width: 795px) {
+    .selo > div {
+        width: 38%;
+        color: #737373;
+        text-align: center;
+    }
+}
+
+@media (max-width: 750px) {
+    .servicos > div {
+    display: block;
+    width: 63%;
+    }
+}
+
+@media (max-width: 750px) {
+    .cardserv {
+    margin-bottom: 10px;
+    width: 100%;
+    }
+}
+
+@media (max-width: 663px) {
+    .newsletter form {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 64%;
+    }
+}
+
+@media (max-width: 663px) {
+    footer ul li {
+        text-align: center;
+
+    }
+}
+
+@media (max-width: 663px) {
+    footer > div {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 663px) {
+    .brand > img {
+        width: 30%;
+}
+
+@media (max-width: 663px) {
+    .redes img {
+        width: 5%;
+}
+
+@media (max-width: 480px) {
+    .card {
+        margin: 35px;
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 480px) {
+    .card img {
+        margin: 0;
+    }
+}
+
+@media (max-width: 310px) {
+    a.botaoamarelo {
+        border: 0 none;
+    }
+}
